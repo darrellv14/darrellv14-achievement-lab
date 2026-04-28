@@ -8,3 +8,7 @@ Small documentation update created from GitHub CLI to practice a clean pull requ
 ## Achievement PR 2
 
 Second documentation update created from GitHub CLI to complete another merged pull request.
+
+## Pair Extraordinaire Practice
+
+Co-authored documentation update created from GitHub CLI with pillnb.
